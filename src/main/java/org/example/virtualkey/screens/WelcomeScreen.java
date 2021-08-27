@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class WelcomeScreen implements Screen {
 
     private String welcomeText = "Welcome to Java Project!";
-    private String developerText = "Developer: Kedar Jadhav";
+    private String developerText = "Developer: Giteshwari Wadbudhe";
 
     private ArrayList<String> options = new ArrayList<>();
 
